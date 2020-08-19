@@ -1,0 +1,16 @@
+PODS:
+  - TrustKit (1.6.5)
+
+DEPENDENCIES:
+  - TrustKit (~> 1.6)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - TrustKit
+
+SPEC CHECKSUMS:
+  TrustKit: 073855e3adecd317417bda4ac9e9ac54a2e3b9f2
+
+PODFILE CHECKSUM: 84a9c517d1b00381dfdd46a10fa3eb01456b3083
+
+COCOAPODS: 1.9.3

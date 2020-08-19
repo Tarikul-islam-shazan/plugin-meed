@@ -1,0 +1,21 @@
+{
+    "declarations": {
+        "use_frameworks!": {
+            "declaration": "use_frameworks!",
+            "count": 1
+        }
+    },
+    "sources": {
+        "https://github.com/CocoaPods/Specs.git": {
+            "source": "https://github.com/CocoaPods/Specs.git",
+            "count": 1
+        }
+    },
+    "libraries": {
+        "TrustKit": {
+            "name": "TrustKit",
+            "spec": "~> 1.6",
+            "count": 1
+        }
+    }
+}
